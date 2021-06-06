@@ -1,5 +1,3 @@
-import java.nio.charset.CharacterCodingException;
-
 public class MyTypes {
     public static void main(String[] args) {
         System.out.println("Primitive Types");
