@@ -2,6 +2,9 @@
     "java.project.sourcePaths": [
         "09-static",
         "08-boolean-conditions",
-        "19-exceptions"
+        "19-exceptions",
+        "20-more-basic-types",
+        "29-method-ref",
+        "36-recursion"
     ]
 }
