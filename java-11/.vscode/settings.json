@@ -1,10 +1,13 @@
 {
     "java.project.sourcePaths": [
+        "01-hello-world",
         "09-static",
         "08-boolean-conditions",
         "19-exceptions",
         "20-more-basic-types",
         "29-method-ref",
+        "31-jar",
+        "34-modules",
         "36-recursion"
     ]
 }
